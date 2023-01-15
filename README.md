@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Not-Paimon
-- 👀 I’m interested in ... Video games, sleeping and money, :p jk. I just wanna sleep
-- 🌱 I’m currently learning ... Node-Red
-- 💞️ I’m looking to collaborate on ... nothin 4 now
+- 👋 Hi, I’m Abu Bakr Siddique
+- 👀 I’m interested in ... programming in general.
+- 🌱 I’m currently learning ... Web Development, C++, Embedded Systems.
+- 💞️ I’m looking to collaborate on ... small projects which will help improve my communication skills as well as shoot me towards my professional goals and most importantly meet new people
 - 📫 How to reach me ... email me at: ecsesiddique.297@gmail.com
 
 <!---
